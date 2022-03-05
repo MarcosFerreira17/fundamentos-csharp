@@ -1,4 +1,4 @@
-# Curso Balta.io - Fundamentos do C#**.
+# Curso Balta.io - Fundamentos do C#
 
 ## Tecnologias e versões utilizadas
 
